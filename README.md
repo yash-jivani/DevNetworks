@@ -35,7 +35,6 @@ npm run build
 
 ### Author
 
-Yash Jivani
 [Yash Jivani](https://www.linkedin.com/in/yash-jivani-0245ab214/)
 
 ### Version
